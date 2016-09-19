@@ -1,0 +1,20 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "new_down.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/happy-thakur/node_projects"
+  },
+  "author": "Happy Singh",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "http": "0.0.0",
+    "request": "^2.75.0"
+  }
+}
